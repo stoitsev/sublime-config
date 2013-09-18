@@ -29,3 +29,13 @@ Bracket Highlighter matches a variety of brackets such as: [], (), {}, "", '', <
 Plugin for some git integration.
 
 [Website](https://github.com/kemayo/sublime-git)
+
+## SublimeCodeIntel
+
+A full-featured code intelligence and smart autocomplete engine for Sublime Text.
+
+Provides the following features:
+
+* Jump to Symbol Definition - Jump to the file and line of the definition of a symbol.
+* Imports autocomplete - Shows autocomplete with the available modules/symbols in real time.
+* Function Call tooltips - Displays information in the status bar about the working function.

@@ -3,6 +3,7 @@
 	[
 		"BracketHighlighter",
 		"Git",
+		"SublimeCodeIntel",
 		"Zen Tabs"
 	]
 }
