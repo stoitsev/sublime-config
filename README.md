@@ -39,3 +39,11 @@ Provides the following features:
 * Jump to Symbol Definition - Jump to the file and line of the definition of a symbol.
 * Imports autocomplete - Shows autocomplete with the available modules/symbols in real time.
 * Function Call tooltips - Displays information in the status bar about the working function.
+
+[Website](http://sublimecodeintel.github.io/SublimeCodeIntel/)
+
+## SideBarEnhancements
+
+Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
+
+[Website](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
