@@ -1,6 +1,8 @@
 {
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"Git",
 		"Zen Tabs"
 	]
 }

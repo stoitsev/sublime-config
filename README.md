@@ -17,3 +17,15 @@ Zen Tabs is a Sublime Text 2/3 plugin that helps you to keep you tab bar in Zen.
 `
 shift + tab - opens Tab Browser
 `
+
+## Bracket​Highlighter
+
+Bracket Highlighter matches a variety of brackets such as: [], (), {}, "", '', <tag></tag>, and even custom brackets.
+
+[Website](https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3)
+
+## Git
+
+Plugin for some git integration.
+
+[Website](https://github.com/kemayo/sublime-git)
