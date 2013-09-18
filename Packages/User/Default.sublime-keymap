@@ -1,0 +1,3 @@
+[
+  { "keys": ["shift+tab"], "command": "switch_tabs"}
+]
