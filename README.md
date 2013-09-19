@@ -47,3 +47,26 @@ Provides the following features:
 Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
 
 [Website](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
+
+## Markdown Preview
+
+Preview your markdown files quickly in you web browser from sublime text 2/3.
+
+`
+alt + m - preview markdown in the browser
+`
+
+### To preivew :
+  
+   - optionnaly select some of your markdown for conversion
+   - use `cmd+shift+P` then `Markdown Preview` to show the follow commands:
+  	- Markdown Preview: Python Markdown: Preview in Browser
+  	- Markdown Preview: Python Markdown: Export HTML in Sublime Text
+  	- Markdown Preview: Python Markdown: Copy to Clipboard
+  	- Markdown Preview: Github Flavored Markdown: Preview in Browser
+  	- Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text
+  	- Markdown Preview: Github Flavored Markdown: Copy to Clipboard
+  	- Markdown Preview: Open Markdown Cheat sheet
+   - or bind some key in your user key binding, using a line like this one:
+     `{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },`
+   - once converted a first time, the output HTML will be updated on each file save (with LiveReload plugin)
