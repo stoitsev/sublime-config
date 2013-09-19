@@ -94,3 +94,9 @@ SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, 
     - ctrl+shift+,, b Block
 
 Note: ctrl+,, f means: press Ctrl and Comma, release all, press F.
+
+## Emmet
+
+By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.
+  
+Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.
